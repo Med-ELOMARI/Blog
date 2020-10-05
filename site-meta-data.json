@@ -1,9 +1,9 @@
 {
   "title": "Just a Blog",
   "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "A Home for my Projects and Ideas",
+  "description": "This Blog will be a home for my public projects and ideas .",
   "home": {
     "title": "Hi! I'm Mohamed",
-    "description": "A Technology geek , believing in [Python Zen](https://elomari.ml/#zen) in the daily life"
+    "description": "A Tech geek with a lot of hunger for learning , This Blog will be a home for my public projects and ideas ."
   }
 }
