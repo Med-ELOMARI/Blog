@@ -21,6 +21,9 @@ const IndexPage = ({
       <Helmet>
         <title>{site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
+        <script>
+          console.log('hi there');
+        </script>
       </Helmet>
       <HeroHeader/>
       <h2>Blog Posts &darr;</h2>
